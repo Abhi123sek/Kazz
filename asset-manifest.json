@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Kazz2.git/static/css/main.d55deb7c.css",
+    "main.js": "/Kazz2.git/static/js/main.4827b0d9.js",
+    "static/media/slider-1.png": "/Kazz2.git/static/media/slider-1.89d4c10e6549245f337a.png",
+    "static/media/slider-2.png": "/Kazz2.git/static/media/slider-2.01fdcc91eff86c9fabdc.png",
+    "static/media/newsletter.png": "/Kazz2.git/static/media/newsletter.408dd67727d7405d04a0.png",
+    "static/media/app-store.jpg": "/Kazz2.git/static/media/app-store.ef349165dfaf884573a5.jpg",
+    "static/media/google-play.jpg": "/Kazz2.git/static/media/google-play.2a527ac3efc1ecb12a2d.jpg",
+    "static/media/thumbnail-1.jpg": "/Kazz2.git/static/media/thumbnail-1.030ea6a82a502a527bf2.jpg",
+    "static/media/bg.png": "/Kazz2.git/static/media/bg.56479838083707e4ffd6.png",
+    "static/media/loading.gif": "/Kazz2.git/static/media/loading.6e1d23c8f091c90f596a.gif",
+    "static/media/logo.svg": "/Kazz2.git/static/media/logo.312c90ddea629dd64ff6fc506a5f3e6c.svg",
+    "static/media/banner4.jpg": "/Kazz2.git/static/media/banner4.51364679caba6731ed07.jpg",
+    "static/media/banner3.jpg": "/Kazz2.git/static/media/banner3.0dda0c16773d3cb2484d.jpg",
+    "static/media/payment-method.png": "/Kazz2.git/static/media/payment-method.47ad3e696f50516da1b3.png",
+    "static/media/WhatsApp Image 2024-05-06 at 02.07.31_6dd9a162.jpg": "/Kazz2.git/static/media/WhatsApp Image 2024-05-06 at 02.07.31_6dd9a162.73f8b87798055dafdbc7.jpg",
+    "static/media/icon-2.svg": "/Kazz2.git/static/media/icon-2.622b96aa8375916171721496261f6986.svg",
+    "static/media/icon-1.svg": "/Kazz2.git/static/media/icon-1.5b1776e2a1d7ec897722f605a8118984.svg",
+    "static/media/icon-4.svg": "/Kazz2.git/static/media/icon-4.84d7a8a08622e302a2d50459d2cddb62.svg",
+    "static/media/icon-5.svg": "/Kazz2.git/static/media/icon-5.e85986742a6c5c3748db8c239b11dd57.svg",
+    "static/media/icon-3.svg": "/Kazz2.git/static/media/icon-3.a41b48d5c6678b96129a842057548c86.svg",
+    "static/media/icon-user.svg": "/Kazz2.git/static/media/icon-user.abd84f71578227606591b08755e49d51.svg",
+    "static/media/icon-cart.svg": "/Kazz2.git/static/media/icon-cart.6fbcc20d25e292c25d52a0fddd4d1ae1.svg",
+    "static/media/icon-heart.svg": "/Kazz2.git/static/media/icon-heart.ede823bb29fd363df7a6ed080cdd8d92.svg",
+    "static/media/icon-compare.svg": "/Kazz2.git/static/media/icon-compare.4f551b75d4c71206df00f57a3357dc05.svg",
+    "index.html": "/Kazz2.git/index.html",
+    "main.d55deb7c.css.map": "/Kazz2.git/static/css/main.d55deb7c.css.map",
+    "main.4827b0d9.js.map": "/Kazz2.git/static/js/main.4827b0d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d55deb7c.css",
+    "static/js/main.4827b0d9.js"
+  ]
+}
